@@ -91,10 +91,10 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: Weekly tutorial
+  - title: Weekly tutorials
     description:
     state: open
-    
+
   - title: Review course material
     description:
     state: open
