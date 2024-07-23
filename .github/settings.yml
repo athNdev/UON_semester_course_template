@@ -5,13 +5,13 @@ repository:
   name: UON_semester_course_template
 
   # A short description of the repository that will show up on GitHub
-  description: description of repo
+  description:
 
   # A URL with more information about the repository
-  homepage: https://example.github.io/
+  homepage:
 
   # A comma-separated list of topics to set on the repository
-  topics: github, probot
+  topics:
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
