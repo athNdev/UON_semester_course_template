@@ -94,6 +94,7 @@ milestones:
   - title: Weekly tutorial
     description:
     state: open
+    
   - title: Review course material
     description:
     state: open
